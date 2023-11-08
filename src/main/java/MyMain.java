@@ -20,9 +20,6 @@ public class MyMain {
         return false;
     }
 
-
-    // METHODS FOR THE HOMEWORK:
-
     // Counts the number of odd numbers in list
     public static int countOdd(ArrayList<Integer> list) {
         // REPLACE WITH YOUR CODE
